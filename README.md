@@ -8,6 +8,8 @@ terintegrasi.
 
 ## 👤 Tim
 - Ryan Pranata (NIM: 2517052802072) — Founder & Business Development
+- fikri Meiza (NIM: 2417052802108)
+- Fika Arieq Nur Rahmat (NIM: 2417052802021)
 
 ## 🎯 Target MVP (Minggu ke-14)
 - [ ] Halaman daftar kendaraan dengan filter
